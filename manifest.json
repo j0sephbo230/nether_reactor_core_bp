@@ -1,0 +1,24 @@
+{
+ "format_version": 2, 
+ "header": { 
+  "description": "This is a Behavior Pack to add a nether reactor core block", 
+  "name": "Nether Reactor Core Behavior Pack", 
+  "uuid": "078b210d-47eb-4b83-b76a-2366e54b2ad8", 
+  "version": [ 1, 0, 0 ], 
+  "min_engine_version": [1, 21, 80] 
+ }, 
+ "modules": [ 
+  { 
+   "description": "Nether Reactor Core Behavior Pack", 
+   "type": "data", 
+   "uuid": "1f835f5e-5b44-456d-ab48-2668c565e908", 
+   "version": [ 1, 0, 0 ] 
+  } 
+ ], 
+ "dependencies": [ 
+  { 
+   "uuid": "1e516dbc-9432-42a7-9a5d-164d98a90909", 
+   "version": [ 1, 0, 0 ] 
+  } 
+ ] 
+}
