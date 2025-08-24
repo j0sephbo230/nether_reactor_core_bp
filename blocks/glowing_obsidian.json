@@ -1,0 +1,11 @@
+{
+    "format_version": "1.21.60",
+    "minecraft:block": {
+        "description": {
+            "identifier": "nether:glowing_obsidian"
+        },
+        "components": {
+            "minecraft:light_emission": 7
+        }
+    }
+}
