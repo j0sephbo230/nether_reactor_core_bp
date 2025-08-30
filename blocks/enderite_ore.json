@@ -1,0 +1,11 @@
+{
+    "format_version": "1.21.60",
+    "minecraft:block": {
+        "description": {
+            "identifier": "nether:enderite_ore"
+        },
+        "components": {
+            "minecraft:light_emission": 2
+        }
+    }
+}
